@@ -1,6 +1,3 @@
-package application;
-import entities.Vetor2;
-
 import java.util.*;
 public class Vetores2 {
 

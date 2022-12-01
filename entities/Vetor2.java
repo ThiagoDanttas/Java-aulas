@@ -1,5 +1,3 @@
-package entities;
-
 public class Vetor2 {
 
     private String nome;

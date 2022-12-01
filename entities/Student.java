@@ -1,5 +1,3 @@
-package entities;
-
 public class Student {
 
     // Atributes

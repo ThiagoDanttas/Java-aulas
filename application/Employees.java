@@ -1,6 +1,5 @@
-package application;
 import java.util.*;
-import entities.Employee;
+
 public class Employees {
 
     public static void main(String[] args){

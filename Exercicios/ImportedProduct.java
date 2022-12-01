@@ -1,5 +1,3 @@
-package Exercicios;
-
 public class ImportedProduct extends Product{
 
     private Double customsFee;

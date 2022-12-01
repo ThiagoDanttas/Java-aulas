@@ -1,7 +1,3 @@
-package Exercicios;
-
-import entities.Altura;
-
 import java.util.*;
 
 public class Alturas {

@@ -1,8 +1,3 @@
-package application;
-
-import entities.Order;
-import entities.OrderStatus;
-
 import java.util.Date;
 
 public class ProgramEnum {

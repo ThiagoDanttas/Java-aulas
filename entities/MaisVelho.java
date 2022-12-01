@@ -1,6 +1,3 @@
-package entities;
-
-
 public class MaisVelho {
 
     private String nome;

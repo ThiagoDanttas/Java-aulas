@@ -1,6 +1,5 @@
-package application;
 import java.util.*;
-import entities.CurrencyConverter;
+
 public class CurrencyConvert {
 
     public static void main(String[] args) {

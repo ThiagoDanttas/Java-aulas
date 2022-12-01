@@ -1,5 +1,3 @@
-package entities;
-
 public abstract class Shape {
 
     private Color color;

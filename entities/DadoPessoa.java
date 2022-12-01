@@ -1,5 +1,3 @@
-package entities;
-
 public class DadoPessoa {
 
     private double altura;

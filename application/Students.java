@@ -1,6 +1,4 @@
-package application;
 import java.util.*;
-import entities.Student;
 
 public class Students {
 

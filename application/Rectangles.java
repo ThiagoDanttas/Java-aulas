@@ -1,5 +1,3 @@
-package application;
-import entities.Rectangle;
 import java.util.*;
 
 public class Rectangles {

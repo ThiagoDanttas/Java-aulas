@@ -1,6 +1,3 @@
-package Exercicios;
-import entities.Alunos;
-
 import java.util.*;
 public class Aprovados {
 

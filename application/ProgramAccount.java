@@ -1,9 +1,3 @@
-package application;
-
-import entities.Account2;
-import entities.BusinessAccount;
-import entities.SavingsAccount;
-
 public class ProgramAccount {
 
     public static void main(String[] args){

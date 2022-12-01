@@ -1,5 +1,3 @@
-package entities;
-
 public class Rectangle2 extends Shape{
     private double width;
     private double height;

@@ -1,9 +1,3 @@
-package application;
-
-import Exercicios.ImportedProduct;
-import Exercicios.Product;
-import Exercicios.UsedProduct;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;

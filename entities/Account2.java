@@ -1,5 +1,3 @@
-package entities;
-
 public class Account2 {
 
     private Integer number;

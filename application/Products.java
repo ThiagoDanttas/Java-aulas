@@ -1,5 +1,3 @@
-package application;
-import entities.Product;
 import java.util.*;
 
 public class Products {

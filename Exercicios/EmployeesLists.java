@@ -1,7 +1,3 @@
-package Exercicios;
-
-import entities.EmployeeList;
-
 import java.util.*;
 public class EmployeesLists {
 

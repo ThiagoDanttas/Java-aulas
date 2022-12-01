@@ -1,5 +1,3 @@
-package Exercicios;
-
 public class Product {
 
     private String name;

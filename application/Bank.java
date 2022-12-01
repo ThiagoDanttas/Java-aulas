@@ -1,7 +1,3 @@
-package application;
-
-import entities.Account;
-
 import java.util.*;
 
 public class Bank {
